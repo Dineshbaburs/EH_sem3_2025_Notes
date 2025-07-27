@@ -1,7 +1,7 @@
 # Day 4: Networks
 ## What is a network?
 - It is a collection of devices which are connected to each other and share data to each other.They can be linked by wired or wireless connections.
-![Network Diagram](./1b6a90f5-29f3-47b3-9e17-6e7afa224713.png)
+<img width="1920" height="1080" alt="image" src="https://www.edrawsoft.com/topology-diagram-example.html" />
 - Networks can be classified into different types like LAN, WAN, MAN, and PAN based on their scale and purpose.
 - Common network devices include switches, routers, hubs, and access points.
 - Wireless networks use radio waves; wired networks use Ethernet cables.
