@@ -146,4 +146,3 @@ IPv4: 4.3 billion  vs  IPv6: 340 undecillion
 - 🔁 **NAT:** Connects multiple local devices to the internet securely via one public IP
 
 📖 **Takeaway:** Mastering these concepts forms the foundation of computer networking and improves both problem-solving and cybersecurity awareness.
-
