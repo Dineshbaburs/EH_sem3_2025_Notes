@@ -2,9 +2,9 @@
 
 > 🧠 A beginner-friendly guide to understanding the hidden language of the internet.
 
-**📅 Date:** 2025-07-31  \
-**👤 Prepared by:** Dinesh Babu R S  \
-**🆔 Reg No:** 2460360  \
+**👤 Prepared by:** Dinesh Babu R S  
+**📅 Date:** 2025-07-31  
+**🆔 Reg No:** 2460360  
 **📧 Email:** [dinesh.babu@btech.christuniversity.in](mailto\:dinesh.babu@btech.christuniversity.in)
 
 ---
@@ -155,4 +155,4 @@ IPv4: 4.3 billion  vs  IPv6: 340 undecillion
 
 =======
 📖 **Takeaway:** Mastering these concepts forms the foundation of computer networking and improves both problem-solving and cybersecurity awareness.
->>>>>>> 5994ccd81428fa067280bd97457f9ecfc82201e9
+
