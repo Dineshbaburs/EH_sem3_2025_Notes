@@ -1,10 +1,10 @@
-# Network Fundamentals Report
+# Core Network Terms
 
 **Date:** 2025-07-31  
 **Prepared by:** Dinesh Babu R S  
 **Reg no:** 2460360  
 **Email:** dinesh.babu@btech.christuniversity.in  
-**Subject:** Core Network Terms
+
 
 ---
 
