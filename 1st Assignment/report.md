@@ -1,6 +1,6 @@
 # 🌐 Network Fundamentals Report: The Internet's Secret Language
 **Date:** 2025-07-31  
-**Prepared by:** Dinesh Babu **Reg no:** 2460360 **email:** dinesh.babu@btech.christuniversity.in  
+**Prepared by:** Dinesh Babu R S **Reg no:** 2460360 **email:** dinesh.babu@btech.christuniversity.in  
 **Subject:** How Your WiFi Actually Works, Basic Networking Concepts (Spoiler: It's Like Magic, But With Rules!)
 
 ---
