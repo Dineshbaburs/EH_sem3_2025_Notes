@@ -144,11 +144,11 @@ IPv4: 4.3 billion  vs  IPv6: 340 undecillion
 
 ## ✅ Recap at a Glance
 
-- 🆔 **MAC:** Physical identity of a device
-- 📞 **ARP:** Finds MAC from IP on a local network
-- 📬 **IPv4:** Traditional internet addressing
-- 🌌 **IPv6:** Future-proof, limitless IP space
-- 🔄 **NAT:** Shares one public IP among devices
+- 🆔 **MAC:** Physical identity of a device.
+- 📞 **ARP:** Finds MAC from IP on a local network.
+- 📬 **IPv4:** Traditional internet addressing.
+- 🌌 **IPv6:** Future-proof, limitless IP space.
+- 🔄 **NAT:** Shares one public IP among devices.
 
 <<<<<<< HEAD
 🧠 **Pro Tip:** Understanding these basics gives you an edge in 🔒 security, 🛠️ troubleshooting, and smarter 📡 network use.
