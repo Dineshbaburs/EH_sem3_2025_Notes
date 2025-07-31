@@ -132,10 +132,10 @@ IPv4: 4.3 billion  vs  IPv6: 340 undecillion
 **🚨 Be aware of threats that exploit these systems:**
 
 ```
-• 🕵️ MAC Spoofing: Pretending to be a trusted device
-• 🧪 ARP Poisoning: Misleading your network’s routing
-• 🔦 IP Scanning: Searching for vulnerable devices
-• 🌀 NAT Confusion: Exploiting IP translation flaws
+• 🕵️ MAC Spoofing: Pretending to be a trusted device.
+• 🧪 ARP Poisoning: Misleading your network’s routing.
+• 🔦 IP Scanning: Searching for vulnerable devices.
+• 🌀 NAT Confusion: Exploiting IP translation flaws.
 ```
 
 ✨ Use 🔐 firewalls, 🔄 encryption, and 🛠️ updated software to stay safe.
