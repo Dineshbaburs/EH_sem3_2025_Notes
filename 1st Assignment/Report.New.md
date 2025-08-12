@@ -7,6 +7,19 @@
 
 ---
 
+## Index
+
+1. [NAT (Network Address Translation)](#nat-network-address-translation)
+2. [ARP (Address Resolution Protocol)](#arp-address-resolution-protocol)
+3. [MAC Address](#mac-address)
+4. [IPv4 - Internet Addressing](#ipv4---internet-addressing)
+5. [IPv6 - The Future of Internet Addressing](#ipv6---the-future-of-internet-addressing)
+6. [How They Work Together](#how-they-work-together)
+7. [Common Network Attacks](#common-network-attacks)
+8. [Quick Recap](#quick-recap)
+
+---
+
 ## NAT (Network Address Translation)
 
 **In simple terms:** NAT lets lots of devices in your home share one public IP address.
@@ -111,5 +124,5 @@ Stay safe by using firewalls, encryption, and keeping your software updated.
 - **IPv6:** Future-ready, limitless.
 - **NAT:** Shares one public IP.
 
-**Takeaway:** Learn these basics and you’ll understand the backbone of how the internet connects you to the world.
+
 
